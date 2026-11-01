@@ -1,0 +1,48 @@
+{
+  "format": "PCM WAV mono 44100 Hz 16-bit",
+  "method": "Original synthesized wooden and plucked tones, no sampled recordings",
+  "sounds": [
+    {
+      "name": "sfx-click.wav",
+      "duration": 0.16,
+      "bytes": 14156,
+      "peak": 0.2644962809504309,
+      "rms": 0.05509757722433456
+    },
+    {
+      "name": "sfx-trade-success.wav",
+      "duration": 0.7,
+      "bytes": 61784,
+      "peak": 0.34177510698964475,
+      "rms": 0.09264687371856518
+    },
+    {
+      "name": "sfx-submit.wav",
+      "duration": 0.6,
+      "bytes": 52964,
+      "peak": 0.23503394432423583,
+      "rms": 0.06909659437132634
+    },
+    {
+      "name": "sfx-stamp-approved.wav",
+      "duration": 1.25,
+      "bytes": 110294,
+      "peak": 0.31081325574089835,
+      "rms": 0.08101571410695975
+    },
+    {
+      "name": "sfx-check-again.wav",
+      "duration": 0.55,
+      "bytes": 48556,
+      "peak": 0.17978910338377133,
+      "rms": 0.0302485640520227
+    },
+    {
+      "name": "sfx-next-stage.wav",
+      "duration": 1.45,
+      "bytes": 127934,
+      "peak": 0.2777160141622702,
+      "rms": 0.06254745610342807
+    }
+  ]
+}
